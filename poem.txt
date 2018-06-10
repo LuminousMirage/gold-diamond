@@ -1,4 +1,4 @@
-Red
+
 Orange
 Yellow
 Green
@@ -6,4 +6,4 @@ Green
 Indigo
 Violet
 
-Rainbow colors is missing blue
+Rainbow colors is missing blue and red
