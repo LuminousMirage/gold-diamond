@@ -1,9 +1,9 @@
-
+Red
 Orange
 Yellow
 Green
-
+Blue
 Indigo
 Violet
 
-Rainbow colors is missing blue and red
+Rainbow colors is back
