@@ -2,8 +2,8 @@ Red
 Orange
 Yellow
 Green
-Blue
+
 Indigo
 Violet
 
-Rainbow colors is listed
+Rainbow colors is missing blue
