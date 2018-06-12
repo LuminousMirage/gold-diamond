@@ -8,4 +8,7 @@ Blue
 Indigo
 Violet
 
+unicorn
+pony
+
 Colors of rainbow and unicorn
