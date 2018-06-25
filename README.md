@@ -1,2 +1,2 @@
-# rainbow-poem
-A Testing repo
+# gold-diamond
+A journey of finding diamond
