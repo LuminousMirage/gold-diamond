@@ -11,13 +11,13 @@ Violet
 gold
 diamond
 
-Today I found a diamond
-The diamond was found by Chris
-Yes, the diamonds are enough to make a diamond cube
+Today I found a tree
+The tree was found by Chris
+Yes, the tree block are enough to make wood stick
 
-Need to gather more gold and diamond
+Need to gather cobblestone next
 
 ***************************************************
-A creeper appeared
+Creeper spawned
 ***************************************************
 
