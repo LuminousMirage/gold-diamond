@@ -1,5 +1,6 @@
 Gold and diamond
 
+
 Red
 Orange
 Yellow
@@ -7,6 +8,7 @@ Green
 Blue
 Indigo
 Violet
+
 
 Today Steve found a tree
 The tree was found by Steve
