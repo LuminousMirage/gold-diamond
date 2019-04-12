@@ -1,2 +1,2 @@
 # gold-diamond
-A journey of finding gold and diamond
+gold and diamond listed here
