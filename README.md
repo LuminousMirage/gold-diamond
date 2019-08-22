@@ -1,2 +1,2 @@
 # gold-diamond
-gold and diamond listed here
+gold and diamond list here
